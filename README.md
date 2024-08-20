@@ -7,9 +7,10 @@ Are you working on an interesting project? Have you had a major technical breakt
 ## Instructions
 - Choose a slot that works for you below, edit the schedule on this page, and submit it as a pull request. Sign up is on first come-first serve basis.
 - Our team will review your submission and get back to you.
-- The lightning talks will take place in one of the social area during the breaks.
+- The lightning talks will take place in Ballroom A during the breaks.
 - A projector (in 16:9 ratio) is available
 - Someone from our team will be assisting you with the projector. Note that there is no microphone or speaker available.
+- You will present from your own laptop. Please access the slide deck on your hard drive (not on the cloud)
 - There are no formal plans for recording at this moment.
 - On your submission, make sure to include:
   - The title
