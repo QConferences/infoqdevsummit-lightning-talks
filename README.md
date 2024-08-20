@@ -21,10 +21,10 @@ Are you working on an interesting project? Have you had a major technical breakt
 - After your submission, the InfoQ Dev Summit team will email you, ask your for a draft of your slide deck and make sure you are set up for success.
 
 ## Schedule
-**Thursday, September 26**
+- **Thursday, September 26**
 - 14:15 - 14:20: Add your topic + link to your LinkedIn profile here
 - 15:25 - 15:30: Add your topic + link to your LinkedIn profile here
-**Friday, September 27**
+- **Friday, September 27**
 - 14:15 - 14:20: Add your topic + link to your LinkedIn profile here
 - 15:25 - 15:30: Add your topic + link to your LinkedIn profile here
 
