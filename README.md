@@ -4,7 +4,7 @@ Are you working on an interesting project? Have you had a major technical breakt
 
 **We are offering all conference attendees** the opportunity to put together a 5 minute ‘[lightning talk](https://en.wikipedia.org/wiki/Lightning_talk)’ and share their knowledge with the rest of the community during break sessions.
 
-**Deadline to submit your topic:**Friday, September 20
+**Deadline to submit your topic:** Friday, September 20
 
 ## Instructions
 - Choose a slot that works for you below, edit the schedule on this page, and submit it as a pull request. Sign up is on first come-first serve basis.
