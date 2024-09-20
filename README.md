@@ -25,8 +25,7 @@ Are you working on an interesting project? Have you had a major technical breakt
 ## Schedule
 - **Thursday, September 26**
 - 14:15 - 14:20: OTEL Collector Configuration - [Jorge Alberto Carrasco Varona](www.linkedin.com/in/jorgeacarrasco) - [Slide Deck](https://docs.google.com/presentation/d/1uJTVjS3J-n5sezhMiOuMB0ul9bTzx1rhzgnEb9vbGRE/pub?start=true&loop=true&delayms=60000)
-- 15:25 - 15:30: Add your topic + link to your LinkedIn profile here
+- 15:25 - 15:30: Service Mesh Exploration and AWS Fargate - [Pavel Dvorkin](https://www.linkedin.com/in/pavel-dvorkin-6979974a) - [Slide Deck](https://docs.google.com/presentation/d/1c9Zi1ryT2MerK4pL4qlV-eEGJstt26nS6M8xia5lcXw/edit?usp=sharing)
 - **Friday, September 27**
 - 14:15 - 14:20: Add your topic + link to your LinkedIn profile here
 - 15:25 - 15:30: Add your topic + link to your LinkedIn profile here
-
